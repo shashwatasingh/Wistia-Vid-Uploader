@@ -1,0 +1,25 @@
+{
+  "name": "wistia-final",
+  "version": "1.0.0",
+  "description": "This app lets users upload vieo to Wistia by using their upload API",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.5.11",
+    "blueimp-file-upload": "^9.21.0",
+    "bootstrap": "^4.0.0",
+    "bower": "^1.8.2",
+    "es5": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^1.9.1",
+    "wistia-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-build": "^0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashwata Singh",
+  "license": "ISC"
+}
