@@ -1,0 +1,41 @@
+.uploader-container{
+    margin: 10px;
+}
+
+.uploader-progress-bar{
+    margin-bottom: 15px;
+}
+#title{
+    position: relative;
+    left: 30%;
+
+}
+
+#uploadbutton{
+    position: relative;
+    left: 45%;
+    display: inline-block;
+
+}
+#statusMessage{
+    margin: 10px;
+}
+
+.bar {
+    height: 18px;
+    border-radius: 4px;
+}
+
+#videocontainer{
+    margin-top: 20px;
+    position: relative;
+    left: 33%;
+    width: 33%;
+}
+
+.video-item{
+    float: bottom;
+    margin: 10px;
+    width: 260px;
+    height: 146px;
+}
